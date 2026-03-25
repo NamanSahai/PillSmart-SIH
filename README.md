@@ -85,7 +85,7 @@ Available in the docs/ folder:
 
 ---
 
-##️ Note
+## Note
 
 This project represents a functional prototype and system design, not a fully deployed production system.
 
